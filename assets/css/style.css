@@ -1,0 +1,95 @@
+body {
+    margin: 10px;
+    padding: 0px;
+    font-family: "Open Sans", sans-serif;
+}
+.navbar {
+    background-color: #373A3C;
+   }
+
+h1 {
+    text-align: right;
+    padding-right: 80px;
+}
+
+#texto {
+    text-align: right;
+    padding-right: 80px;
+}
+.sec_iconos {
+    padding: 60px 0;
+    text-align: center;
+    font-weight: bold;
+    
+}
+.sec_iconos article {
+    display: inline-block;
+    font-size: 15px;
+    width: 30%;
+    padding: 10px;
+}
+p {
+    text-align: center;
+font: 16px;
+letter-spacing: 0.32px;
+
+}
+.fondo_azul {
+    background-color: #17A2B8;
+}
+.mis_trabajos {
+    text-align: center;
+    padding: 60px 0;
+    text-emphasis-color: #ffffff;
+}
+.card-body {
+    text-align: justify;
+    color: #373A3C;
+    opacity: 1;
+}
+.contactame {
+    text-align: center;
+    padding: 20px;
+}
+.texto {
+    width: 923px;
+    padding: 10px;
+    text-align: center;
+}
+.card-text {
+    text-align: justify;
+}
+.card-body {
+    display: inline-block;
+    padding: 10px;
+}
+.card {
+    display: inline-block;
+    padding: 10px;
+}
+.texto {
+    text-align: center;
+    color: #ffffff;
+}
+.fondo_azul {
+    display: inline-block;
+}
+footer {
+    padding: 15px;
+    text-align: center;
+    background-color: #373A3C;
+    color: #ffffff;
+}
+
+.imagen {
+    background-image: url("../img/bg-hero.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: left;
+    color: #ffffff;
+    width: autoincrementable;
+  }
+  #Mis {
+    padding: 15px;
+    text-align: center;
+  }
